@@ -42,7 +42,7 @@ This project demonstrates the ability to design professional, interactive Tablea
 ## 🔗 Tableau Public Dashboard
 
 **Interactive Dashboard:**  
-https://
+[Students Study Performance](https://public.tableau.com/shared/Z5H9TKTDQ?:display_count=n&:origin=viz_share_link)
 
 # 📱 Smartphone Data Analysis using SQL
 
