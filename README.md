@@ -2,6 +2,11 @@
 # Data Analyst Portfolio Project
 # 📊 Student Study Performance Analysis using Tableau
 
+## 🔗 Tableau Public Dashboard
+
+**Interactive Dashboard:**  
+[Students Study Performance](https://public.tableau.com/shared/Z5H9TKTDQ?:display_count=n&:origin=viz_share_link)
+
 ## 📌 Project Overview
 
 This project presents an interactive Tableau dashboard that analyzes student academic performance across multiple factors such as gender, parental education, test preparation, lunch type, and subject scores. The objective is to uncover patterns that influence student performance and provide actionable educational insights through interactive visualizations.
@@ -38,11 +43,6 @@ This project presents an interactive Tableau dashboard that analyzes student aca
 This project demonstrates the ability to design professional, interactive Tableau dashboards that transform raw educational data into meaningful insights. It highlights skills in dashboard development, data visualization, interactive reporting, and analytical storytelling for data-driven decision-making.
 
 ---
-
-## 🔗 Tableau Public Dashboard
-
-**Interactive Dashboard:**  
-[Students Study Performance](https://public.tableau.com/shared/Z5H9TKTDQ?:display_count=n&:origin=viz_share_link)
 
 # 📱 Smartphone Data Analysis using SQL
 
